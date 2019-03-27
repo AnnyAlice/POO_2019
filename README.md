@@ -12,7 +12,6 @@ Essa atividade, fiz as funções de carregar e descarregar bateria com a ajuda d
 ## 3 - CALCULADORA JAVA
 
 ## 4 - Pet
-
 - O que eu fiz
     - fiz tudo que foi pedido, exceto que na parte que eu executo ñão fica 10/10, apenas 10/0.
 - Como / com quem?
