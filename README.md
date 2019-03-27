@@ -14,11 +14,11 @@ Essa atividade, fiz as funções de carregar e descarregar bateria com a ajuda d
 ## 4 - Pet
 
 - O que eu fiz
-    - fiz tudo que foi pedido
+    - fiz tudo que foi pedido, exceto que na parte que eu executo ñão fica 10/10, apenas 10/0.
 - Como / com quem?
-    - nós dois, eu e Deus, depois da meia noite agarrados num bule de café
+    - Com a ajuda do vídeo no qual o prof faz o programa.
 - O que você aprendeu
-    - Aprendi que nos piores momento de POO, Deus é +
+    - Absorvi um pouco mais a linguagem, e mais sobre interação com o usuário e a incrementar o código conforme a o problema pede.
 - O que falta aprender
-    - Java
+    - Mais sobre a linguagem. Pretendo analisar o codigo e refazer, pra fazê-lo dá certo.
 
