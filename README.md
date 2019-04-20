@@ -1,3 +1,6 @@
+![32564723388_bc3cc8e779_o](https://user-images.githubusercontent.com/38083404/56462666-8a21d880-639d-11e9-8c3b-c90f52e9e3a6.jpg)
+
+
 ## 1 - CARRO
 
 Nessa atividade acompanhei a aula e fui fazendo junto com o professor, no final o codigo pareceu igual, apesar de que no meu dá sempre um erro na linha em que a variável recebe a classe.
@@ -21,3 +24,14 @@ Essa atividade, fiz as funções de carregar e descarregar bateria com a ajuda d
 - O que falta aprender
     - Mais sobre a linguagem. Pretendo analisar o codigo e refazer, pra fazê-lo dá certo.
 
+## 5 - TOPIC
+- O que eu fiz
+- Como / com quem?
+- O que você aprendeu
+- O que falta aprender
+
+## 6 - Agiota
+- O que eu fiz
+- Como / com quem?
+- O que você aprendeu
+- O que falta aprender
