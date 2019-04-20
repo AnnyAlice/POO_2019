@@ -1,4 +1,4 @@
-![32564723388_bc3cc8e779_o](https://user-images.githubusercontent.com/38083404/56462666-8a21d880-639d-11e9-8c3b-c90f52e9e3a6.jpg)
+
 
 
 ## 1 - CARRO
