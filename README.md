@@ -27,16 +27,30 @@ Essa atividade, fiz as funções de carregar e descarregar bateria com a ajuda d
 
 ## 5 - TOPIC
 - O que eu fiz
-Fiz primeiro a sala de cinema, vendo o vídeo da aula, depois fiz a topic vendo o vídeo, refiz sem o vídeo, mas ainda dando uma olhada no código do Prof.
+    - Fiz primeiro a sala de cinema, vendo o vídeo da aula, depois fiz a topic vendo o vídeo, refiz sem o vídeo, mas ainda dando uma olhada no código do Prof.
 - Como / com quem?
-Com o vídeo e com o código do prof
+    -Com o vídeo e com o código do prof
 - O que você aprendeu
-Arraylist e compreensão maior da linguagem.
+    - Arraylist e compreensão maior da linguagem.
 - O que falta aprender
-Assimilar mais a linguagem e saber onde fica qualquer coisa.
+    - Assimilar mais a linguagem e saber onde fica qualquer coisa.
 
 ## 6 - Agiota
 - O que eu fiz
+    - 
 - Como / com quem?
+    -
 - O que você aprendeu
+    - 
 - O que falta aprender
+    -
+    
+    ## 7 - 
+- O que eu fiz
+    - 
+- Como / com quem?
+    -
+- O que você aprendeu
+    - 
+- O que falta aprender
+    -
