@@ -29,7 +29,7 @@ Essa atividade, fiz as funções de carregar e descarregar bateria com a ajuda d
 - O que eu fiz
     - Fiz primeiro a sala de cinema, vendo o vídeo da aula, depois fiz a topic vendo o vídeo, refiz sem o vídeo, mas ainda dando uma olhada no código do Prof.
 - Como / com quem?
-    -Com o vídeo e com o código do prof
+    - Com o vídeo e com o código do prof
 - O que você aprendeu
     - Arraylist e compreensão maior da linguagem.
 - O que falta aprender
