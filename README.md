@@ -1,3 +1,7 @@
+
+![32564723388_36a18dd9a5_z](https://user-images.githubusercontent.com/38083404/56462804-9eff6b80-639f-11e9-9cd9-192210c5dee4.jpg)
+
+
 ## 1 - CARRO
 
 Nessa atividade acompanhei a aula e fui fazendo junto com o professor, no final o codigo pareceu igual, apesar de que no meu dá sempre um erro na linha em que a variável recebe a classe.
@@ -21,3 +25,32 @@ Essa atividade, fiz as funções de carregar e descarregar bateria com a ajuda d
 - O que falta aprender
     - Mais sobre a linguagem. Pretendo analisar o codigo e refazer, pra fazê-lo dá certo.
 
+## 5 - TOPIC
+- O que eu fiz
+    - Fiz primeiro a sala de cinema, vendo o vídeo da aula, depois fiz a topic vendo o vídeo, refiz sem o vídeo, mas ainda dando uma olhada no código do Prof.
+- Como / com quem?
+    - Com o vídeo e com o código do prof
+- O que você aprendeu
+    - Arraylist e compreensão maior da linguagem.
+- O que falta aprender
+    - Assimilar mais a linguagem e saber onde fica qualquer coisa.
+
+## 6 - Agiota
+- O que eu fiz
+    - 
+- Como / com quem?
+    -
+- O que você aprendeu
+    - 
+- O que falta aprender
+    -
+    
+    ## 7 - 
+- O que eu fiz
+    - 
+- Como / com quem?
+    -
+- O que você aprendeu
+    - 
+- O que falta aprender
+    -
