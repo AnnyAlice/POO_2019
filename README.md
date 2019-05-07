@@ -45,7 +45,18 @@ Essa atividade, fiz as funções de carregar e descarregar bateria com a ajuda d
 - O que falta aprender
     -
     
-    ## 7 - 
+    ## 7 - Agiota com MAPA
+- O que eu fiz
+    - 
+- Como / com quem?
+    -
+- O que você aprendeu
+    - 
+- O que falta aprender
+    -
+
+ 
+    ## 8 - EMPRESA
 - O que eu fiz
     - 
 - Como / com quem?
