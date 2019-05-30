@@ -37,13 +37,13 @@ Essa atividade, fiz as funções de carregar e descarregar bateria com a ajuda d
 
 ## 6 - Agiota
 - O que eu fiz
-    - 
+    - fiz a atividade com as classes Transação, Sistema e Cliente, e métodos de cadastrarr, emprestar, e findcliente.
 - Como / com quem?
-    -
+    - Fiz com auxilio do vídeo da aula e quando deu erro procurei na internet.
 - O que você aprendeu
-    - 
+    - Pude apreender mais sobre ArrayList e adquirir mais "intimidade" com a linguagem, acredito estar conseguindo aprender melhor, apesar de ainda ter dificuldades em lembrar como fazer algumas coisas, como o for.
 - O que falta aprender
-    -
+    - Preciso praticar mais pra conseguir assimilar melhor, o que são algumas coisas, e onde colocá-las.
     
     ## 7 - Agiota com MAPA
 - O que eu fiz
