@@ -71,13 +71,17 @@ Essa atividade, fiz as funções de carregar e descarregar bateria com a ajuda d
 
 ## 10 - twitter
 - O que eu fiz
-    - 
+    - Fiz apenas o que o professor fez no vídeo.
 - Como / com quem?
-    -
+    - vídeo da aula
 - O que você aprendeu
-    - 
+    - Mais sobre exceções.
 - O que falta aprender
-    -
-
-    ## 11 - Agência
+    - Exceções, e a linguagem.
+- O que tem dificuldade ainda
+    - Exceções, e a linguagem.
+- Quanto tempo levou pra fazer a atividade
+    - Como fiz junto com a aula gravada, e apenas o que foi feito no vídeo, foi em 40 minutos.
+ 
+ ## 11 - Agência
 
