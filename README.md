@@ -68,10 +68,8 @@ Essa atividade, fiz as funções de carregar e descarregar bateria com a ajuda d
     - Com a linguagem em si.
 - Quanto tempo levou pra fazer a atividade
     - Umas 24 intercaladas.
-    
 
-
-    ## 10 - twitter
+## 10 - twitter
 - O que eu fiz
     - 
 - Como / com quem?
@@ -82,11 +80,4 @@ Essa atividade, fiz as funções de carregar e descarregar bateria com a ajuda d
     -
 
     ## 11 - Agência
-- O que eu fiz
-    - 
-- Como / com quem?
-    -
-- O que você aprendeu
-    - 
-- O que falta aprender
-    -
+
